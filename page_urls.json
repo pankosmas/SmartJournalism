@@ -1,0 +1,259 @@
+[
+    {
+        "page_url": "https://www.news247.gr/",
+        "categories": [
+            {
+                "name": "MAGAZINE",
+                "url": "https://www.news247.gr/magazine/"
+            },
+            {
+                "name": "ΚΑΙΡΟΣ",
+                "url": "https://www.news247.gr/kairos/"
+            },
+            {
+                "name": "ΕΙΔΗΣΕΙΣ",
+                "url": "https://www.news247.gr/roi-eidiseon/"
+            },
+            {
+                "name": "Αρχική",
+                "url": "https://www.news247.gr/"
+            },
+            {
+                "name": "Ελλάδα",
+                "url": "https://www.news247.gr/ellada/"
+            },
+            {
+                "name": "Πολιτική",
+                "url": "https://www.news247.gr/politiki/"
+            },
+            {
+                "name": "POLLitics",
+                "url": "https://www.news247.gr/pollitics/"
+            },
+            {
+                "name": "Κόσμος",
+                "url": "https://www.news247.gr/kosmos/"
+            },
+            {
+                "name": "Γνώμες",
+                "url": "https://www.news247.gr/gnomes/"
+            },
+            {
+                "name": "Οικονομία",
+                "url": "https://www.news247.gr/oikonomia/"
+            },
+            {
+                "name": "Αγορά",
+                "url": "https://www.news247.gr/oikonomia/agora/"
+            },
+            {
+                "name": "Ακίνητα",
+                "url": "https://www.news247.gr/oikonomia/akinita/"
+            },
+            {
+                "name": "Εργασία",
+                "url": "https://www.news247.gr/oikonomia/ergasia/"
+            },
+            {
+                "name": "Φορολογία",
+                "url": "https://www.news247.gr/oikonomia/forologia/"
+            },
+            {
+                "name": "Τουρισμός",
+                "url": "https://www.news247.gr/oikonomia/tourismos/"
+            },
+            {
+                "name": "Χρηματιστήριο",
+                "url": "https://www.news247.gr/oikonomia/xrima/"
+            },
+            {
+                "name": "Ενέργεια",
+                "url": "https://www.news247.gr/energia/"
+            },
+            {
+                "name": "Αθλητικά",
+                "url": "https://www.news247.gr/athlitika/"
+            },
+            {
+                "name": "Politics",
+                "url": "https://www.news247.gr/magazine/politics/"
+            },
+            {
+                "name": "World",
+                "url": "https://www.news247.gr/magazine/world/"
+            },
+            {
+                "name": "Past",
+                "url": "https://www.news247.gr/magazine/past/"
+            },
+            {
+                "name": "Culture",
+                "url": "https://www.news247.gr/magazine/culture/"
+            },
+            {
+                "name": "Reportage",
+                "url": "https://www.news247.gr/magazine/reportage/"
+            },
+            {
+                "name": "Talks",
+                "url": "https://www.news247.gr/magazine/talks/"
+            },
+            {
+                "name": "Λα Γκρέκα Μπελέτσα",
+                "url": "https://www.news247.gr/magazine/la-gkreka-beletsa/"
+            },
+            {
+                "name": "Τρόπος Ζωής",
+                "url": "https://www.news247.gr/magazine/tropos-zwhs/"
+            },
+            {
+                "name": "Urban",
+                "url": "https://www.news247.gr/magazine/urban/"
+            },
+            {
+                "name": "Γεύση",
+                "url": "https://www.news247.gr/magazine/gefsi/"
+            },
+            {
+                "name": "Επιχειρήσεις",
+                "url": "https://www.news247.gr/epixeiriseis/"
+            },
+            {
+                "name": "Πολιτισμός",
+                "url": "https://www.news247.gr/politismos/"
+            },
+            {
+                "name": "Βιβλία",
+                "url": "https://www.news247.gr/politismos/vivlia/"
+            },
+            {
+                "name": "Θέατρο",
+                "url": "https://www.news247.gr/politismos/theatro/"
+            },
+            {
+                "name": "Μουσική",
+                "url": "https://www.news247.gr/politismos/mousiki/"
+            },
+            {
+                "name": "Σινεμά",
+                "url": "https://www.news247.gr/politismos/cinema/"
+            },
+            {
+                "name": "Τέχνες",
+                "url": "https://www.news247.gr/politismos/texnes/"
+            },
+            {
+                "name": "Ψυχαγωγία",
+                "url": "https://www.news247.gr/psixagogia/"
+            },
+            {
+                "name": "Τηλεόραση",
+                "url": "https://www.news247.gr/psixagogia/tileorasi/"
+            },
+            {
+                "name": "Celebrities",
+                "url": "https://www.news247.gr/psixagogia/celebrities/"
+            },
+            {
+                "name": "Ταξίδι",
+                "url": "https://www.news247.gr/travel/"
+            },
+            {
+                "name": "Παιδεία",
+                "url": "https://www.news247.gr/paideia/"
+            },
+            {
+                "name": "Υγεία",
+                "url": "https://www.news247.gr/ygeia/"
+            },
+            {
+                "name": "Επισυνδέσεις",
+                "url": "https://www.news247.gr/episyndeseis/"
+            },
+            {
+                "name": "Φάκελοι",
+                "url": "https://www.news247.gr/fakeloi/"
+            },
+            {
+                "name": "Έρευνες",
+                "url": "https://www.news247.gr/erevnes/"
+            },
+            {
+                "name": "EU24/7",
+                "url": "https://www.news247.gr/eu-24-7/"
+            },
+            {
+                "name": "Πρωτοσέλιδα",
+                "url": "https://www.news247.gr/protoselida/"
+            },
+            {
+                "name": "Videos",
+                "url": "https://www.news247.gr/videos/"
+            },
+            {
+                "name": "Podcasts",
+                "url": "https://www.news247.gr/podcasts/"
+            },
+            {
+                "name": "Σκίτσα",
+                "url": "https://www.news247.gr/skitsa/"
+            },
+            {
+                "name": "Τιμές καυσίμων",
+                "url": "https://www.news247.gr/times-kafsimon-se-pragmatiko-xrono/"
+            },
+            {
+                "name": "Πολιτική",
+                "url": "https://www.news247.gr/about-us/"
+            },
+            {
+                "name": "Οικονομία",
+                "url": "https://www.news247.gr/taftotita/"
+            },
+            {
+                "name": "Γνώμες",
+                "url": "https://www.news247.gr/oroi-chrisis/"
+            },
+            {
+                "name": "Πολιτισμός",
+                "url": "https://www.news247.gr/politiki-aporritoy/"
+            }
+        ]
+    },
+    {
+        "page_url": "https://www.protothema.gr/",
+        "categories": []
+    },
+    {
+        "page_url": "https://www.kathimerini.gr/",
+        "categories": []
+    },
+    {
+        "page_url": "https://www.tanea.gr/",
+        "categories": []
+    },
+    {
+        "page_url": "https://www.ethnos.gr/",
+        "categories": []
+    },
+    {
+        "page_url": "https://www.iefimerida.gr/",
+        "categories": []
+    },
+    {
+        "page_url": "https://www.in.gr/",
+        "categories": []
+    },
+    {
+        "page_url": "https://www.ertnews.gr/",
+        "categories": []
+    },
+    {
+        "page_url": "https://www.newsit.gr/",
+        "categories": []
+    },
+    {
+        "page_url": "https://www.tovima.gr/",
+        "categories": []
+    }
+]

@@ -1,4 +1,5 @@
 import scrapy
+import json
 from pymongo import MongoClient
 
 class CategoriesSpider(scrapy.Spider):
@@ -41,7 +42,34 @@ class CategoriesSpider(scrapy.Spider):
                 {"$set": {"categories": categories_dict}},
                 upsert=True
             )
+
+            # Προσθήκη κατηγοριών στο υπάρχον JSON αρχείο
+            self.update_json(categories_dict)
+
         else:
             self.log("Δεν βρέθηκαν έγκυρες κατηγορίες.")
 
         self.log("Οι κατηγορίες αποθηκεύτηκαν επιτυχώς στη MongoDB.")
+
+    def update_json(self, categories):
+        # Ανάγνωση του υπάρχοντος JSON αρχείου
+        try:
+            with open("page_urls.json", "r", encoding="utf-8") as json_file:
+                data = json.load(json_file)
+
+            # Εύρεση του URL του news247
+            for entry in data:
+                if entry["page_url"] == "https://www.news247.gr/":
+                    entry["categories"] = categories
+                    break
+
+            # Αποθήκευση των αλλαγών στο ίδιο αρχείο
+            with open("page_urls.json", "w", encoding="utf-8") as json_file:
+                json.dump(data, json_file, ensure_ascii=False, indent=4)
+
+            self.log("Οι κατηγορίες προστέθηκαν επιτυχώς στο page_urls.json.")
+
+        except FileNotFoundError:
+            self.log("Το αρχείο page_urls.json δεν βρέθηκε.")
+        except json.JSONDecodeError:
+            self.log("Σφάλμα κατά την ανάγνωση του JSON αρχείου.")
