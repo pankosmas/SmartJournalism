@@ -5,7 +5,7 @@ class News247Spider(scrapy.Spider):
     name = 'articles_spider'
 
     def start_requests(self):
-        # Σύνδεση με τη βάση δεδομένων MongoDB
+        # Σύνδεση με τη βάση δεδομένων MongoDB εδώ
         client = MongoClient('localhost', 27017)
         db = client['news_db']
         collection = db['news_sites']
