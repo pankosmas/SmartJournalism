@@ -1,0 +1,103 @@
+{
+    "news247": {
+        "start_url": "https://www.news247.gr/",
+        "regex": "^https://www\\.news247\\.gr/[^/]+/?$",
+        "category": "li.menu-item a::attr(href)",
+        "category_name": "li.menu-item a::text",
+        "article": "article.article",
+        "title_selector": "h3.post__title a::text",
+        "article_url": "h3.post__title a::attr(href)",
+        "article_image_url": "figure a.post_img img::attr(src)",
+        "content_selector": "div.article-content",
+        "date_selector": "span.publish-date",
+        "category_selector": "a.category-link",
+        "url_concat": false,
+        "pagination": true,
+        "dynamic_loading": false
+    },
+    "news": {
+        "start_url": "https://www.news.gr/",
+        "regex": "^https://www\\.news\\.gr/[a-zA-Z]+/\\d+/news\\.html$",
+        "category": "div.category_title a::attr(href)",
+        "category_name": "div.category_title a::text",
+        "url_concat": false
+    },
+    "documento": {
+        "start_url": "https://www.documentonews.gr/",
+        "regex": "^https://www\\.documentonews\\.gr/category/[a-zA-Z-]+/?$",
+        "category": "li.menu-item a::attr(href)",
+        "category_name": "li.menu-item a::text",
+        "url_concat": false
+    },
+    "tanea": {
+        "start_url": "https://www.tanea.gr/",
+        "regex": "^https://www\\.tanea\\.gr/category/[a-zA-Z-]+(/[a-zA-Z-]+)?/?$",
+        "category": ".primary-menu .menu-item a::attr(href)",
+        "category_name": ".primary-menu .menu-item a::text",
+        "url_concat": true
+    },
+    "tovima": {
+        "start_url": "https://www.tovima.gr/",
+        "regex": "^https://www\\.tovima\\.gr/category/[^/]+/?$",
+        "category": "li.menu-item a::attr(href)",
+        "category_name": "li.menu-item a::text",
+        "url_concat": true
+    },
+    "iefimerida": {
+        "start_url": "https://www.iefimerida.gr/",
+        "regex": "^https://www\\.iefimerida\\.gr/[a-zA-Z0-9-]+$",
+        "category": "div.grid a.c-menu-gray::attr(href)",
+        "category_name": "div.grid a.c-menu-gray::text",
+        "url_concat": true
+    },
+    "kathimerini": {
+        "start_url": "https://www.kathimerini.gr/",
+        "regex": "^https://www\\.kathimerini\\.gr/[a-zA-Z-]+(/[a-zA-Z-]+)?/?$",
+        "category": "a.main-menu-item.py-2::attr(href)",
+        "category_name": "a.main-menu-item.py-2 span::text",
+        "url_concat": false
+    },
+    "newsit": {
+        "start_url": "https://www.newsit.gr/",
+        "regex": "^https://www\\.newsit\\.gr/category/[a-zA-Z]+/?$",
+        "category": "li.menu-item a::attr(href)",
+        "category_name": "li.menu-item a::text",
+        "url_concat": false
+    },
+    "newsbeast": {
+        "start_url": "https://www.newsbeast.gr/",
+        "regex": "^https://www\\.newsbeast\\.gr/[a-zA-Z0-9]+$",
+        "category": "li._menuOpt_1if3j_170 a::attr(href)",
+        "category_name": "li._menuOpt_1if3j_170 a::text",
+        "url_concat": true
+    },
+    "cnn": {
+        "start_url": "https://www.cnn.gr/",
+        "regex": "^https:\\/\\/www\\.cnn\\.gr\\/(?!tag|taksidi|focus|eidhseis|videos|efimerides|widgets|newsletter|who-we-are)[a-zA-Z0-9-]+(\\/[a-zA-Z0-9-]+)?\\/?$",
+        "category": "li a::attr(href)",
+        "category_name": "li a::text",
+        "url_concat": true
+    },
+    "protothema": {
+        "start_url": "https://www.protothema.gr/",
+        "regex": "^https:\\/\\/www\\.protothema\\.gr\\/(?!sunday-editions|digital-growth-strategy-by-cloudevo|politiki-prostasias-prosopikon-dedomenon|oroi-hrisis|epikoinonia|politiki-cookies|koronoios-live|frontpages|blogs|thema-insights|english-news|life-style|afieromata|advertorial|stories)[a-zA-Z0-9-]+\\/?$",
+        "category": "div.title a::attr(href), ul.cnt li a::attr(href)",
+        "category_name": "div.title a::text, ul.cnt li a::text",
+        "url_concat": false
+    },
+    "ethnos": {
+        "start_url": "https://www.ethnos.gr/",
+        "regex": "^https://www\\.ethnos\\.gr/[a-zA-Z0-9]+$",
+        "category": "ul.first-level-list li a::attr(href)",
+        "category_name": "ul.first-level-list li a::text",
+        "url_concat": true
+    },
+    "ertnews": {
+        "start_url": "https://www.ertnews.gr/",
+        "regex": "^https:\\/\\/www\\.ertnews\\.gr\\/news\\/eidiseis\\/(?:[a-zA-Z0-9\\-\\/]*)?$",
+        "category": "li.menu-item a::attr(href)",
+        "category_name": "li.menu-item a::text",
+        "url_concat": false
+    }
+  }
+  

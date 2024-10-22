@@ -12,6 +12,8 @@ BOT_NAME = "news_scraper"
 SPIDER_MODULES = ["news_scraper.spiders"]
 NEWSPIDER_MODULE = "news_scraper.spiders"
 
+# Modify the Log Level of Terminal
+LOG_LEVEL = 'WARNING'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "news_scraper (+http://www.yourdomain.com)"

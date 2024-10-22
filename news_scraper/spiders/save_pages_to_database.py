@@ -25,15 +25,18 @@ def save_page_urls(urls):
 # Ενδεικτική λίστα με τα URLs των σελίδων
 page_urls = [
     "https://www.news247.gr/",
-    "https://www.protothema.gr/",
-    "https://www.kathimerini.gr/",
+    "https://www.news.gr/",
+    "https://www.documentonews.gr/",
     "https://www.tanea.gr/",
-    "https://www.ethnos.gr/",
+    "https://www.tovima.gr/",
     "https://www.iefimerida.gr/",
-    "https://www.in.gr/",
-    "https://www.ertnews.gr/",
+    "https://www.kathimerini.gr/",
     "https://www.newsit.gr/",
-    "https://www.tovima.gr/"
+    "https://www.newsbeast.gr/",
+    "https://www.cnn.gr/",
+    "https://www.protothema.gr/",
+    "https://www.ethnos.gr/",
+    "https://www.ertnews.gr/"
 ]
 
 # Αποθήκευση των URLs των σελίδων στη βάση και σε JSON αρχείο
