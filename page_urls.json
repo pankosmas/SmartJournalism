@@ -3,18 +3,8 @@
         "page_url": "https://www.news247.gr/",
         "categories": [
             {
-                "name": "MAGAZINE",
-                "url": "https://www.news247.gr/magazine/",
-                "articles": []
-            },
-            {
                 "name": "ΚΑΙΡΟΣ",
                 "url": "https://www.news247.gr/kairos/",
-                "articles": []
-            },
-            {
-                "name": "ΕΙΔΗΣΕΙΣ",
-                "url": "https://www.news247.gr/roi-eidiseon/",
                 "articles": []
             },
             {
@@ -28,23 +18,43 @@
                 "articles": []
             },
             {
-                "name": "POLLitics",
-                "url": "https://www.news247.gr/pollitics/",
-                "articles": []
-            },
-            {
                 "name": "Κόσμος",
                 "url": "https://www.news247.gr/kosmos/",
                 "articles": []
             },
             {
-                "name": "Γνώμες",
-                "url": "https://www.news247.gr/gnomes/",
+                "name": "Οικονομία",
+                "url": "https://www.news247.gr/oikonomia/",
                 "articles": []
             },
             {
-                "name": "Οικονομία",
-                "url": "https://www.news247.gr/oikonomia/",
+                "name": "Αγορά",
+                "url": "https://www.news247.gr/oikonomia/agora/",
+                "articles": []
+            },
+            {
+                "name": "Ακίνητα",
+                "url": "https://www.news247.gr/oikonomia/akinita/",
+                "articles": []
+            },
+            {
+                "name": "Εργασία",
+                "url": "https://www.news247.gr/oikonomia/ergasia/",
+                "articles": []
+            },
+            {
+                "name": "Φορολογία",
+                "url": "https://www.news247.gr/oikonomia/forologia/",
+                "articles": []
+            },
+            {
+                "name": "Τουρισμός",
+                "url": "https://www.news247.gr/oikonomia/tourismos/",
+                "articles": []
+            },
+            {
+                "name": "Χρηματιστήριο",
+                "url": "https://www.news247.gr/oikonomia/xrima/",
                 "articles": []
             },
             {
@@ -68,8 +78,43 @@
                 "articles": []
             },
             {
+                "name": "Βιβλία",
+                "url": "https://www.news247.gr/politismos/vivlia/",
+                "articles": []
+            },
+            {
+                "name": "Θέατρο",
+                "url": "https://www.news247.gr/politismos/theatro/",
+                "articles": []
+            },
+            {
+                "name": "Μουσική",
+                "url": "https://www.news247.gr/politismos/mousiki/",
+                "articles": []
+            },
+            {
+                "name": "Σινεμά",
+                "url": "https://www.news247.gr/politismos/cinema/",
+                "articles": []
+            },
+            {
+                "name": "Τέχνες",
+                "url": "https://www.news247.gr/politismos/texnes/",
+                "articles": []
+            },
+            {
                 "name": "Ψυχαγωγία",
                 "url": "https://www.news247.gr/psixagogia/",
+                "articles": []
+            },
+            {
+                "name": "Τηλεόραση",
+                "url": "https://www.news247.gr/psixagogia/tileorasi/",
+                "articles": []
+            },
+            {
+                "name": "Celebrities",
+                "url": "https://www.news247.gr/psixagogia/celebrities/",
                 "articles": []
             },
             {
@@ -86,1292 +131,55 @@
                 "name": "Υγεία",
                 "url": "https://www.news247.gr/ygeia/",
                 "articles": []
-            },
-            {
-                "name": "Επισυνδέσεις",
-                "url": "https://www.news247.gr/episyndeseis/",
-                "articles": []
-            },
-            {
-                "name": "Φάκελοι",
-                "url": "https://www.news247.gr/fakeloi/",
-                "articles": []
-            },
-            {
-                "name": "Έρευνες",
-                "url": "https://www.news247.gr/erevnes/",
-                "articles": []
-            },
-            {
-                "name": "EU24/7",
-                "url": "https://www.news247.gr/eu-24-7/",
-                "articles": []
-            },
-            {
-                "name": "Πρωτοσέλιδα",
-                "url": "https://www.news247.gr/protoselida/",
-                "articles": []
-            },
-            {
-                "name": "Videos",
-                "url": "https://www.news247.gr/videos/",
-                "articles": []
-            },
-            {
-                "name": "Podcasts",
-                "url": "https://www.news247.gr/podcasts/",
-                "articles": []
-            },
-            {
-                "name": "Σκίτσα",
-                "url": "https://www.news247.gr/skitsa/",
-                "articles": []
-            },
-            {
-                "name": "Τιμές καυσίμων",
-                "url": "https://www.news247.gr/times-kafsimon-se-pragmatiko-xrono/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτική",
-                "url": "https://www.news247.gr/about-us/",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.news247.gr/taftotita/",
-                "articles": []
-            },
-            {
-                "name": "Γνώμες",
-                "url": "https://www.news247.gr/oroi-chrisis/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτισμός",
-                "url": "https://www.news247.gr/politiki-aporritoy/",
-                "articles": []
             }
         ]
     },
     {
         "page_url": "https://www.news.gr/",
-        "categories": [
-            {
-                "name": "Ελλάδα",
-                "url": "https://www.news.gr/ellada/7/news.html",
-                "articles": []
-            },
-            {
-                "name": "Πολιτική",
-                "url": "https://www.news.gr/politikh/5/news.html",
-                "articles": []
-            },
-            {
-                "name": "Κόσμος",
-                "url": "https://www.news.gr/kosmos/10/news.html",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.news.gr/oikonomia/9/news.html",
-                "articles": []
-            },
-            {
-                "name": "Travelnews",
-                "url": "https://www.news.gr/travel/16/news.html",
-                "articles": []
-            },
-            {
-                "name": "Tech",
-                "url": "https://www.news.gr/tech/12/news.html",
-                "articles": []
-            },
-            {
-                "name": "Media",
-                "url": "https://www.news.gr/media/30/news.html",
-                "articles": []
-            },
-            {
-                "name": "Αυτοκίνητο",
-                "url": "https://www.news.gr/auto/20/news.html",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.documentonews.gr/",
-        "categories": [
-            {
-                "name": "ΕΙΔΙΚΕΣ ΕΚΔΟΣΕΙΣ",
-                "url": "https://www.documentonews.gr/category/eidikes-ekdoseis/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτική",
-                "url": "https://www.documentonews.gr/category/politiki/",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.documentonews.gr/category/oikonomia/",
-                "articles": []
-            },
-            {
-                "name": "Ελλάδα",
-                "url": "https://www.documentonews.gr/category/ellada/",
-                "articles": []
-            },
-            {
-                "name": "Παραπολιτικά",
-                "url": "https://www.documentonews.gr/category/parapolitika/",
-                "articles": []
-            },
-            {
-                "name": "Κόσμος",
-                "url": "https://www.documentonews.gr/category/kosmos/",
-                "articles": []
-            },
-            {
-                "name": "Απόψεις",
-                "url": "https://www.documentonews.gr/category/apopseis/",
-                "articles": []
-            },
-            {
-                "name": "Media",
-                "url": "https://www.documentonews.gr/category/media/",
-                "articles": []
-            },
-            {
-                "name": "Docville",
-                "url": "https://www.documentonews.gr/category/docville/",
-                "articles": []
-            },
-            {
-                "name": "Υγεία",
-                "url": "https://www.documentonews.gr/category/ygeia/",
-                "articles": []
-            },
-            {
-                "name": "Αθλητικά",
-                "url": "https://www.documentonews.gr/category/athlitika/",
-                "articles": []
-            },
-            {
-                "name": "Doc Food & Drink",
-                "url": "https://www.documentonews.gr/category/doc-food-drink/",
-                "articles": []
-            },
-            {
-                "name": "Business",
-                "url": "https://www.documentonews.gr/category/business/",
-                "articles": []
-            },
-            {
-                "name": "Τέχνες & Δρώμενα",
-                "url": "https://www.documentonews.gr/category/texnes-kai-dromena/",
-                "articles": []
-            },
-            {
-                "name": "Βιβλίο",
-                "url": "https://www.documentonews.gr/category/vivlio/",
-                "articles": []
-            },
-            {
-                "name": "Documento TV",
-                "url": "https://www.documentonews.gr/category/documento-tv/",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.tanea.gr/",
-        "categories": [
-            {
-                "name": "Ελλάδα",
-                "url": "https://www.tanea.gr/category/greece/",
-                "articles": []
-            },
-            {
-                "name": "Παιδεία",
-                "url": "https://www.tanea.gr/category/greece/education/",
-                "articles": []
-            },
-            {
-                "name": "Δικαιοσύνη",
-                "url": "https://www.tanea.gr/category/greece/law/",
-                "articles": []
-            },
-            {
-                "name": "Αστυνομικά",
-                "url": "https://www.tanea.gr/category/greece/astynomika/",
-                "articles": []
-            },
-            {
-                "name": "Εργασία",
-                "url": "https://www.tanea.gr/category/greece/employment/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτική",
-                "url": "https://www.tanea.gr/category/politics/",
-                "articles": []
-            },
-            {
-                "name": "Βουλή",
-                "url": "https://www.tanea.gr/category/politics/parliament/",
-                "articles": []
-            },
-            {
-                "name": "Κυβέρνηση",
-                "url": "https://www.tanea.gr/category/politics/government/",
-                "articles": []
-            },
-            {
-                "name": "Αντιπολίτευση",
-                "url": "https://www.tanea.gr/category/politics/antipoliteysi/",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.tanea.gr/category/economy/",
-                "articles": []
-            },
-            {
-                "name": "Ελλάδα",
-                "url": "https://www.tanea.gr/category/economy/economy-greece/",
-                "articles": []
-            },
-            {
-                "name": "Διεθνή",
-                "url": "https://www.tanea.gr/category/economy/diethni/",
-                "articles": []
-            },
-            {
-                "name": "Φορολογικά",
-                "url": "https://www.tanea.gr/category/economy/forologika/",
-                "articles": []
-            },
-            {
-                "name": "Κόσμος",
-                "url": "https://www.tanea.gr/category/world/",
-                "articles": []
-            },
-            {
-                "name": "Ομάδα",
-                "url": "https://www.tanea.gr/category/sports/",
-                "articles": []
-            },
-            {
-                "name": "Γνώμες",
-                "url": "https://www.tanea.gr/category/opinions/",
-                "articles": []
-            },
-            {
-                "name": "Nσυν",
-                "url": "https://www.tanea.gr/category/lifearts/",
-                "articles": []
-            },
-            {
-                "name": "Πρόσωπα",
-                "url": "https://www.tanea.gr/category/people/",
-                "articles": []
-            },
-            {
-                "name": "Συνεντεύξεις",
-                "url": "https://www.tanea.gr/category/interviews/",
-                "articles": []
-            },
-            {
-                "name": "Επιστήμη & Τεχνολογία",
-                "url": "https://www.tanea.gr/category/science-technology/",
-                "articles": []
-            },
-            {
-                "name": "English Edition",
-                "url": "https://www.tanea.gr/category/english-edition/",
-                "articles": []
-            },
-            {
-                "name": "Υγεία",
-                "url": "https://www.tanea.gr/category/health/",
-                "articles": []
-            },
-            {
-                "name": "Γυναίκα",
-                "url": "https://www.tanea.gr/category/woman/",
-                "articles": []
-            },
-            {
-                "name": "Παιδί",
-                "url": "https://www.tanea.gr/category/kid/",
-                "articles": []
-            },
-            {
-                "name": "Auto Νέα",
-                "url": "https://www.tanea.gr/category/autonea/",
-                "articles": []
-            },
-            {
-                "name": "Media",
-                "url": "https://www.tanea.gr/category/media/",
-                "articles": []
-            },
-            {
-                "name": "Market",
-                "url": "https://www.tanea.gr/category/market/",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.tovima.gr/",
-        "categories": [
-            {
-                "name": "Πολιτική",
-                "url": "https://www.tovima.gr/category/politics/",
-                "articles": []
-            },
-            {
-                "name": "Κοινωνία",
-                "url": "https://www.tovima.gr/category/society/",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.tovima.gr/category/finance/",
-                "articles": []
-            },
-            {
-                "name": "Κόσμος",
-                "url": "https://www.tovima.gr/category/world/",
-                "articles": []
-            },
-            {
-                "name": "Διπλωματία",
-                "url": "https://www.tovima.gr/category/diplomatia/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτισμός",
-                "url": "https://www.tovima.gr/category/culture/",
-                "articles": []
-            },
-            {
-                "name": "Νέες Εποχές",
-                "url": "https://www.tovima.gr/category/nees-epoxes/",
-                "articles": []
-            },
-            {
-                "name": "Science",
-                "url": "https://www.tovima.gr/category/science/",
-                "articles": []
-            },
-            {
-                "name": "Υγεία",
-                "url": "https://www.tovima.gr/category/health/",
-                "articles": []
-            },
-            {
-                "name": "Τεχνολογία",
-                "url": "https://www.tovima.gr/category/texnologia/",
-                "articles": []
-            },
-            {
-                "name": "Αθλητισμός",
-                "url": "https://www.tovima.gr/category/sports/",
-                "articles": []
-            },
-            {
-                "name": "Life",
-                "url": "https://www.tovima.gr/category/life/",
-                "articles": []
-            },
-            {
-                "name": "Cooking",
-                "url": "https://www.tovima.gr/category/cooking/",
-                "articles": []
-            },
-            {
-                "name": "Wellness",
-                "url": "https://www.tovima.gr/category/ygeia-evexia/",
-                "articles": []
-            },
-            {
-                "name": "Διακοπές",
-                "url": "https://www.tovima.gr/category/diakopes/",
-                "articles": []
-            },
-            {
-                "name": "ΒΗΜΑ Green",
-                "url": "https://www.tovima.gr/category/green/",
-                "articles": []
-            },
-            {
-                "name": "Βιβλία",
-                "url": "https://www.tovima.gr/category/books-ideas/",
-                "articles": []
-            },
-            {
-                "name": "Celebrities",
-                "url": "https://www.tovima.gr/category/celebrities/",
-                "articles": []
-            },
-            {
-                "name": "Media",
-                "url": "https://www.tovima.gr/category/media/",
-                "articles": []
-            },
-            {
-                "name": "Αυτοκίνητο",
-                "url": "https://www.tovima.gr/category/autohub/",
-                "articles": []
-            },
-            {
-                "name": "Τα νέα της αγοράς",
-                "url": "https://www.tovima.gr/category/market/",
-                "articles": []
-            },
-            {
-                "name": "The Wall Street Journal",
-                "url": "https://www.tovima.gr/category/the-wall-street-journal/",
-                "articles": []
-            },
-            {
-                "name": "ΒΗΜΑ History",
-                "url": "https://www.tovima.gr/category/istoriko-arxeio/",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.iefimerida.gr/",
-        "categories": [
-            {
-                "name": "ΕΙΔΗΣΕΙΣ",
-                "url": "https://www.iefimerida.gr/eidiseis",
-                "articles": []
-            },
-            {
-                "name": "ΠΟΛΙΤΙΚΗ",
-                "url": "https://www.iefimerida.gr/politiki",
-                "articles": []
-            },
-            {
-                "name": "ΕΛΛΑΔΑ",
-                "url": "https://www.iefimerida.gr/ellada",
-                "articles": []
-            },
-            {
-                "name": "ΟΙΚΟΝΟΜΙΑ",
-                "url": "https://www.iefimerida.gr/oikonomia",
-                "articles": []
-            },
-            {
-                "name": "ΚΟΣΜΟΣ",
-                "url": "https://www.iefimerida.gr/kosmos",
-                "articles": []
-            },
-            {
-                "name": "ΠΟΛΙΤΙΣΜΟΣ",
-                "url": "https://www.iefimerida.gr/politismos",
-                "articles": []
-            },
-            {
-                "name": "ΠΟΛΗ",
-                "url": "https://www.iefimerida.gr/poli",
-                "articles": []
-            },
-            {
-                "name": "ΖΩΗ",
-                "url": "https://www.iefimerida.gr/zoi",
-                "articles": []
-            },
-            {
-                "name": "ΣΠΟΡ",
-                "url": "https://www.iefimerida.gr/spor",
-                "articles": []
-            },
-            {
-                "name": "STORIES",
-                "url": "https://www.iefimerida.gr/stories",
-                "articles": []
-            },
-            {
-                "name": "ΓΥΝΑΙΚΑ",
-                "url": "https://www.iefimerida.gr/gynaika",
-                "articles": []
-            },
-            {
-                "name": "ENGLISH EDITION",
-                "url": "https://www.iefimerida.gr/english",
-                "articles": []
-            },
-            {
-                "name": "ΠΑΝΕΛΛΗΝΙΕΣ",
-                "url": "https://www.iefimerida.gr/panellinies",
-                "articles": []
-            },
-            {
-                "name": "ΕΚΛΟΓΕΣ",
-                "url": "https://www.iefimerida.gr/ekloges",
-                "articles": []
-            },
-            {
-                "name": "TRAVEL",
-                "url": "https://www.iefimerida.gr/travel",
-                "articles": []
-            },
-            {
-                "name": "ΤΕΧΝΟΛΟΓΙΑ",
-                "url": "https://www.iefimerida.gr/tehnologia",
-                "articles": []
-            },
-            {
-                "name": "ΥΓΕΙΑ",
-                "url": "https://www.iefimerida.gr/ygeia",
-                "articles": []
-            },
-            {
-                "name": "DESIGN",
-                "url": "https://www.iefimerida.gr/design",
-                "articles": []
-            },
-            {
-                "name": "ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ",
-                "url": "https://www.iefimerida.gr/olympiakoi-agones",
-                "articles": []
-            },
-            {
-                "name": "EURO",
-                "url": "https://www.iefimerida.gr/uefa-euro",
-                "articles": []
-            },
-            {
-                "name": "GREEN",
-                "url": "https://www.iefimerida.gr/green",
-                "articles": []
-            },
-            {
-                "name": "iAUTOKINITO",
-                "url": "https://www.iefimerida.gr/aytokinito",
-                "articles": []
-            },
-            {
-                "name": "iOPINIONS",
-                "url": "https://www.iefimerida.gr/opinions",
-                "articles": []
-            },
-            {
-                "name": "iGASTRONOMIE",
-                "url": "https://www.iefimerida.gr/gastronomie",
-                "articles": []
-            },
-            {
-                "name": "iBOOKS",
-                "url": "https://www.iefimerida.gr/books",
-                "articles": []
-            },
-            {
-                "name": "ΖΩΔΙΑ",
-                "url": "https://www.iefimerida.gr/zodia",
-                "articles": []
-            },
-            {
-                "name": "OSCARS",
-                "url": "https://www.iefimerida.gr/oscars",
-                "articles": []
-            },
-            {
-                "name": "THE OCEAN",
-                "url": "https://www.iefimerida.gr/the-ocean",
-                "articles": []
-            },
-            {
-                "name": "MEDIA",
-                "url": "https://www.iefimerida.gr/media",
-                "articles": []
-            },
-            {
-                "name": "ELAMEFORA",
-                "url": "https://www.iefimerida.gr/elamefora",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.kathimerini.gr/",
-        "categories": [
-            {
-                "name": "Πολιτική",
-                "url": "https://www.kathimerini.gr/politics/",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.kathimerini.gr/economy/",
-                "articles": []
-            },
-            {
-                "name": "Κοινωνία",
-                "url": "https://www.kathimerini.gr/society/",
-                "articles": []
-            },
-            {
-                "name": "Κόσμος",
-                "url": "https://www.kathimerini.gr/world/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτισμός",
-                "url": "https://www.kathimerini.gr/culture/",
-                "articles": []
-            },
-            {
-                "name": "Special Reports",
-                "url": "https://www.kathimerini.gr/investigations/special-reports/",
-                "articles": []
-            },
-            {
-                "name": "Περιοδικό «Κ»",
-                "url": "https://www.kathimerini.gr/k/k-magazine/",
-                "articles": []
-            },
-            {
-                "name": "Γαστρονόμος",
-                "url": "https://www.kathimerini.gr/k/gastronomos/",
-                "articles": []
-            },
-            {
-                "name": "Ταξίδια",
-                "url": "https://www.kathimerini.gr/k/travel/",
-                "articles": []
-            },
-            {
-                "name": "Life",
-                "url": "https://www.kathimerini.gr/life/",
-                "articles": []
-            },
-            {
-                "name": "Υγεία",
-                "url": "https://www.kathimerini.gr/life/health/",
-                "articles": []
-            },
-            {
-                "name": "Αθλητισμός",
-                "url": "https://www.kathimerini.gr/athletics/",
-                "articles": []
-            },
-            {
-                "name": "Επιστήμη",
-                "url": "https://www.kathimerini.gr/life/science/",
-                "articles": []
-            },
-            {
-                "name": "Τεχνολογία",
-                "url": "https://www.kathimerini.gr/life/technology/",
-                "articles": []
-            },
-            {
-                "name": "Περιβάλλον",
-                "url": "https://www.kathimerini.gr/life/environment/",
-                "articles": []
-            },
-            {
-                "name": "Αυτοκίνητο",
-                "url": "https://www.kathimerini.gr/life/auto/",
-                "articles": []
-            },
-            {
-                "name": "Ιστορία",
-                "url": "https://www.kathimerini.gr/istoria/",
-                "articles": []
-            },
-            {
-                "name": "Απόψεις",
-                "url": "https://www.kathimerini.gr/opinion/",
-                "articles": []
-            },
-            {
-                "name": "Σκίτσα",
-                "url": "https://www.kathimerini.gr/opinion/sketches/",
-                "articles": []
-            },
-            {
-                "name": "Συνεντεύξεις",
-                "url": "https://www.kathimerini.gr/opinion/interviews/",
-                "articles": []
-            },
-            {
-                "name": "Έρευνες",
-                "url": "https://www.kathimerini.gr/investigations/",
-                "articles": []
-            },
-            {
-                "name": "Explainers",
-                "url": "https://www.kathimerini.gr/explainers/",
-                "articles": []
-            },
-            {
-                "name": "Γραφήματα",
-                "url": "https://www.kathimerini.gr/visual/infographics/",
-                "articles": []
-            },
-            {
-                "name": "Podcasts",
-                "url": "https://www.kathimerini.gr/visual/podcasts/",
-                "articles": []
-            },
-            {
-                "name": "Φωτογραφήματα",
-                "url": "https://www.kathimerini.gr/visual/photography/",
-                "articles": []
-            },
-            {
-                "name": "Video",
-                "url": "https://www.kathimerini.gr/visual/video/",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.newsit.gr/",
-        "categories": [
-            {
-                "name": "Ελλαδα",
-                "url": "https://www.newsit.gr/category/ellada/",
-                "articles": []
-            },
-            {
-                "name": "Κοσμος",
-                "url": "https://www.newsit.gr/category/kosmos/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτικη",
-                "url": "https://www.newsit.gr/category/politikh/",
-                "articles": []
-            },
-            {
-                "name": "Αθλητικα",
-                "url": "https://www.newsit.gr/category/athlitika/",
-                "articles": []
-            },
-            {
-                "name": "Lifestyle",
-                "url": "https://www.newsit.gr/category/lifestyle/",
-                "articles": []
-            },
-            {
-                "name": "Τεχνολογια",
-                "url": "https://www.newsit.gr/category/texnologia/",
-                "articles": []
-            },
-            {
-                "name": "Υγεια",
-                "url": "https://www.newsit.gr/category/ygeia/",
-                "articles": []
-            },
-            {
-                "name": "Media",
-                "url": "https://www.newsit.gr/category/media/",
-                "articles": []
-            },
-            {
-                "name": "Αυτοκινητο",
-                "url": "https://www.newsit.gr/category/auto/",
-                "articles": []
-            },
-            {
-                "name": "Γνωμη",
-                "url": "https://www.newsit.gr/category/opinion/",
-                "articles": []
-            },
-            {
-                "name": "Καιρος",
-                "url": "https://www.newsit.gr/category/kairos/",
-                "articles": []
-            },
-            {
-                "name": "Videos",
-                "url": "https://www.newsit.gr/category/videos/",
-                "articles": []
-            },
-            {
-                "name": "Οικονομια",
-                "url": "https://www.newsit.gr/category/oikonomia/",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.newsbeast.gr/",
-        "categories": [
-            {
-                "name": "ΕΛΛΑΔΑ",
-                "url": "https://www.newsbeast.gr/greece",
-                "articles": []
-            },
-            {
-                "name": "ΚΟΣΜΟΣ",
-                "url": "https://www.newsbeast.gr/world",
-                "articles": []
-            },
-            {
-                "name": "ΠΟΛΙΤΙΚΗ",
-                "url": "https://www.newsbeast.gr/politiki",
-                "articles": []
-            },
-            {
-                "name": "ΟΙΚΟΝΟΜΙΑ",
-                "url": "https://www.newsbeast.gr/financial",
-                "articles": []
-            },
-            {
-                "name": "ΚΟΙΝΩΝΙΑ",
-                "url": "https://www.newsbeast.gr/society",
-                "articles": []
-            },
-            {
-                "name": "ΑΘΛΗΤΙΚΑ",
-                "url": "https://www.newsbeast.gr/sports",
-                "articles": []
-            },
-            {
-                "name": "ΠΕΡΙΒΑΛΛΟΝ",
-                "url": "https://www.newsbeast.gr/environment",
-                "articles": []
-            },
-            {
-                "name": "ΤΑΞΙΔΙ",
-                "url": "https://www.newsbeast.gr/travel",
-                "articles": []
-            },
-            {
-                "name": "LIFESTYLE",
-                "url": "https://www.newsbeast.gr/lifestyle",
-                "articles": []
-            },
-            {
-                "name": "MEDIA",
-                "url": "https://www.newsbeast.gr/media",
-                "articles": []
-            },
-            {
-                "name": "ΥΓΕΙΑ",
-                "url": "https://www.newsbeast.gr/health",
-                "articles": []
-            },
-            {
-                "name": "ΤΕΧΝΟΛΟΓΙΑ",
-                "url": "https://www.newsbeast.gr/technology",
-                "articles": []
-            },
-            {
-                "name": "TRENDS",
-                "url": "https://www.newsbeast.gr/woman",
-                "articles": []
-            },
-            {
-                "name": "ΣΥΝΤΑΓΕΣ",
-                "url": "https://www.newsbeast.gr/geuseis",
-                "articles": []
-            },
-            {
-                "name": "AUTO",
-                "url": "https://www.newsbeast.gr/car",
-                "articles": []
-            },
-            {
-                "name": "ΜΟΤΟ",
-                "url": "https://www.newsbeast.gr/moto",
-                "articles": []
-            },
-            {
-                "name": "Ο,ΤΙ ΝΑ 'ΝΑΙ",
-                "url": "https://www.newsbeast.gr/weird",
-                "articles": []
-            },
-            {
-                "name": "ΖΩΔΙΑ",
-                "url": "https://www.newsbeast.gr/zwdia",
-                "articles": []
-            },
-            {
-                "name": "ΔΙΑΣΚΕΔΑΣΗ",
-                "url": "https://www.newsbeast.gr/entertainment",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.cnn.gr/",
-        "categories": [
-            {
-                "name": "Πολιτική",
-                "url": "https://www.cnn.gr/politiki",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.cnn.gr/oikonomia",
-                "articles": []
-            },
-            {
-                "name": "Ελλάδα",
-                "url": "https://www.cnn.gr/ellada",
-                "articles": []
-            },
-            {
-                "name": "Κόσμος",
-                "url": "https://www.cnn.gr/kosmos",
-                "articles": []
-            },
-            {
-                "name": "Style",
-                "url": "https://www.cnn.gr/style",
-                "articles": []
-            },
-            {
-                "name": "Σπορ",
-                "url": "https://www.cnn.gr/sports",
-                "articles": []
-            },
-            {
-                "name": "Tech",
-                "url": "https://www.cnn.gr/tech",
-                "articles": []
-            },
-            {
-                "name": "Αυτοκίνητο",
-                "url": "https://www.cnn.gr/style/aytokinito",
-                "articles": []
-            },
-            {
-                "name": "Περιβάλλον",
-                "url": "https://www.cnn.gr/perivallon",
-                "articles": []
-            },
-            {
-                "name": "Ανάπτυξη",
-                "url": "https://www.cnn.gr/oikonomia/anaptyxi",
-                "articles": []
-            },
-            {
-                "name": "Χρήμα",
-                "url": "https://www.cnn.gr/oikonomia/chrima",
-                "articles": []
-            },
-            {
-                "name": "Επιχειρήσεις",
-                "url": "https://www.cnn.gr/oikonomia/epixeiriseis",
-                "articles": []
-            },
-            {
-                "name": "Αγορές",
-                "url": "https://www.cnn.gr/oikonomia/agores",
-                "articles": []
-            },
-            {
-                "name": "Διεθνή",
-                "url": "https://www.cnn.gr/oikonomia/diethni",
-                "articles": []
-            },
-            {
-                "name": "Ψυχαγωγία",
-                "url": "https://www.cnn.gr/style/psyxagogia",
-                "articles": []
-            },
-            {
-                "name": "Πολιτισμός",
-                "url": "https://www.cnn.gr/style/politismos",
-                "articles": []
-            },
-            {
-                "name": "Μόδα",
-                "url": "https://www.cnn.gr/style/moda",
-                "articles": []
-            },
-            {
-                "name": "Ομορφιά",
-                "url": "https://www.cnn.gr/style/beauty",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.protothema.gr/",
-        "categories": [
-            {
-                "name": "Games",
-                "url": "https://www.protothema.gr/games/",
-                "articles": []
-            },
-            {
-                "name": "Ελλάδα",
-                "url": "https://www.protothema.gr/greece/",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.protothema.gr/economy/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτική",
-                "url": "https://www.protothema.gr/politics/",
-                "articles": []
-            },
-            {
-                "name": "Κόσμος",
-                "url": "https://www.protothema.gr/world/",
-                "articles": []
-            },
-            {
-                "name": "Sports",
-                "url": "https://www.protothema.gr/sports/",
-                "articles": []
-            },
-            {
-                "name": "Ολυμπιακοι Αγωνες 2024",
-                "url": "https://www.protothema.gr/olubiakoi-agones-2024/",
-                "articles": []
-            },
-            {
-                "name": "Car",
-                "url": "https://www.protothema.gr/car-and-speed/",
-                "articles": []
-            },
-            {
-                "name": "Πολιτισμός",
-                "url": "https://www.protothema.gr/culture/",
-                "articles": []
-            },
-            {
-                "name": "Τεχνολογία",
-                "url": "https://www.protothema.gr/technology/",
-                "articles": []
-            },
-            {
-                "name": "Περιβάλλον",
-                "url": "https://www.protothema.gr/environment/",
-                "articles": []
-            },
-            {
-                "name": "Τουρισμος",
-                "url": "https://www.protothema.gr/travelling/",
-                "articles": []
-            },
-            {
-                "name": "Συνταγες",
-                "url": "https://www.protothema.gr/recipes/",
-                "articles": []
-            },
-            {
-                "name": "Ζωη",
-                "url": "https://www.protothema.gr/ugeia/",
-                "articles": []
-            },
-            {
-                "name": "ygeiamou.gr",
-                "url": "https://www.protothema.gr/zoi/",
-                "articles": []
-            },
-            {
-                "name": "Παιδι",
-                "url": "https://www.protothema.gr/paidi/",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.ethnos.gr/",
-        "categories": [
-            {
-                "name": "Magazine",
-                "url": "https://www.ethnos.gr/magazine",
-                "articles": []
-            },
-            {
-                "name": "Πολιτική",
-                "url": "https://www.ethnos.gr/politics",
-                "articles": []
-            },
-            {
-                "name": "Οικονομία",
-                "url": "https://www.ethnos.gr/economy",
-                "articles": []
-            },
-            {
-                "name": "Market",
-                "url": "https://www.ethnos.gr/market",
-                "articles": []
-            },
-            {
-                "name": "Ελλάδα",
-                "url": "https://www.ethnos.gr/greece",
-                "articles": []
-            },
-            {
-                "name": "Κόσμος",
-                "url": "https://www.ethnos.gr/world",
-                "articles": []
-            },
-            {
-                "name": "Αθλητισμός",
-                "url": "https://www.ethnos.gr/sports",
-                "articles": []
-            },
-            {
-                "name": "Απόψεις",
-                "url": "https://www.ethnos.gr/opinions",
-                "articles": []
-            },
-            {
-                "name": "Videos",
-                "url": "https://www.ethnos.gr/videos",
-                "articles": []
-            },
-            {
-                "name": "Ψυχαγωγία",
-                "url": "https://www.ethnos.gr/lifestyle",
-                "articles": []
-            },
-            {
-                "name": "Food & Drink",
-                "url": "https://www.ethnos.gr/foodanddrink",
-                "articles": []
-            },
-            {
-                "name": "Συνταγές",
-                "url": "https://www.ethnos.gr/syntages",
-                "articles": []
-            },
-            {
-                "name": "Travel",
-                "url": "https://www.ethnos.gr/travel",
-                "articles": []
-            },
-            {
-                "name": "Υγεία",
-                "url": "https://www.ethnos.gr/health",
-                "articles": []
-            },
-            {
-                "name": "Παιδεία",
-                "url": "https://www.ethnos.gr/paideia",
-                "articles": []
-            },
-            {
-                "name": "Πολιτισμός",
-                "url": "https://www.ethnos.gr/culture",
-                "articles": []
-            },
-            {
-                "name": "Βιβλίο",
-                "url": "https://www.ethnos.gr/book",
-                "articles": []
-            },
-            {
-                "name": "Θέατρο",
-                "url": "https://www.ethnos.gr/theatre",
-                "articles": []
-            },
-            {
-                "name": "Μουσική",
-                "url": "https://www.ethnos.gr/music",
-                "articles": []
-            },
-            {
-                "name": "Cinema",
-                "url": "https://www.ethnos.gr/cinema",
-                "articles": []
-            },
-            {
-                "name": "Καιρός",
-                "url": "https://www.ethnos.gr/weather",
-                "articles": []
-            },
-            {
-                "name": "Τεχνολογία",
-                "url": "https://www.ethnos.gr/technology",
-                "articles": []
-            },
-            {
-                "name": "Auto",
-                "url": "https://www.ethnos.gr/auto",
-                "articles": []
-            },
-            {
-                "name": "Moto",
-                "url": "https://www.ethnos.gr/moto",
-                "articles": []
-            },
-            {
-                "name": "Viral",
-                "url": "https://www.ethnos.gr/viral",
-                "articles": []
-            },
-            {
-                "name": "Ιστορία",
-                "url": "https://www.ethnos.gr/history",
-                "articles": []
-            },
-            {
-                "name": "Σαν σήμερα",
-                "url": "https://www.ethnos.gr/todayinhistory",
-                "articles": []
-            },
-            {
-                "name": "Κατοικίδιο",
-                "url": "https://www.ethnos.gr/pet",
-                "articles": []
-            },
-            {
-                "name": "Fashion & Design",
-                "url": "https://www.ethnos.gr/fashiondesign",
-                "articles": []
-            },
-            {
-                "name": "Πρωτοσέλιδα",
-                "url": "https://www.ethnos.gr/frontpages",
-                "articles": []
-            }
-        ]
+        "categories": []
     },
     {
         "page_url": "https://www.ertnews.gr/",
-        "categories": [
-            {
-                "name": "ΕΛΛΑΔΑ",
-                "url": "https://www.ertnews.gr/news/eidiseis/ellada/",
-                "articles": []
-            },
-            {
-                "name": "ΠΟΛΙΤΙΚΗ",
-                "url": "https://www.ertnews.gr/news/eidiseis/ellada/politiki/",
-                "articles": []
-            },
-            {
-                "name": "ΚΟΣΜΟΣ",
-                "url": "https://www.ertnews.gr/news/eidiseis/diethni/",
-                "articles": []
-            },
-            {
-                "name": "ΟΙΚΟΝΟΜΙΑ",
-                "url": "https://www.ertnews.gr/news/eidiseis/oikonomia/",
-                "articles": []
-            },
-            {
-                "name": "ΕΠΙΣΤΗΜΗ",
-                "url": "https://www.ertnews.gr/news/eidiseis/epistimi/",
-                "articles": []
-            },
-            {
-                "name": "ΠΟΛΙΤΙΣΜΟΣ",
-                "url": "https://www.ertnews.gr/news/eidiseis/politismos/",
-                "articles": []
-            }
-        ]
+        "categories": []
     }
 ]
