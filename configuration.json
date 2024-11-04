@@ -19,7 +19,8 @@
         "next_page": "div.load-more-container a.load_more_posts::attr(href)",
         "url_concat": false,
         "pagination": true,
-        "dynamic_loading": false
+        "dynamic_loading": false,
+        "date_limit": "2024-01-01"
     }
   }
   
